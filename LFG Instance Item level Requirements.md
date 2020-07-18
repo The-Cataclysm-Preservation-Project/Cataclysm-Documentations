@@ -21,8 +21,9 @@ Dungeon | Required Itemlevel
 ------------ | -------------
 Random Cataclysm Heroic | 329
 4.0 Heroic Dungeons | 329
-Zul'Aman and Zul'Gurub | 346
+4.1 Heroic Dungeons | 346
 Random Hour of Twilight Heroic | 353
+4.3 Heroic Dungeons | 353
 
 ## Raidfinder
 

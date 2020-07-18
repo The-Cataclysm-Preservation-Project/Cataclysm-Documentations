@@ -11,7 +11,7 @@ Throne of the Tides | 226
 The Stonecore | 272
 The Vortex Pinnacle | 272
 Grim Batol | 305
-Halls of Origination 305
+Halls of Origination | 305
 
 ## Heroic Difficulty
 

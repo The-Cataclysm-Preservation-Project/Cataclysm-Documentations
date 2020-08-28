@@ -1,4 +1,4 @@
-The following file contains the message of the day login strings for each Cataclysm patch. Each line will be terminated by a \ sign.
+The following file contains the message of the day login strings for each Cataclysm patch. Each new line in this file also means a new line in the message itself
 
 ## 4.3.4 (previous 4.3 builds just use 4.3 as version number)
 Welcome to Patch 4.3.4: Hour of Twilight! \

@@ -12,6 +12,7 @@ The Stonecore | 272
 The Vortex Pinnacle | 272
 Grim Batol | 305
 Halls of Origination | 305
+The Lost City of the Tol'vir | 305
 
 ## Heroic Difficulty
 

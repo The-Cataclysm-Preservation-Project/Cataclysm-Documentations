@@ -29,6 +29,7 @@ Random Hour of Twilight Heroic | 353
 ## Raidfinder
 
 The raidfinder, which got introduced in patch 4.3.0 has item level requirements for the two wings of the Dragon Soul raid.
+
 Dungeon | Required Itemlevel
 ------------ | -------------
 The Siege of Wyrmrest Temple | 378
